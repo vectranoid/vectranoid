@@ -5,6 +5,16 @@ DIGITAL TREND
 https://templatemo.com/tm-538-digital-trend
 
 */
+
+
+#contactus {
+  color: #f1c111;
+}
+
+#contactus:hover {
+  color: #666262;
+}
+
 .intro {
   /* width: 70%; */
   margin: 5em 3em; 
@@ -102,10 +112,20 @@ https://templatemo.com/tm-538-digital-trend
     text-transform: uppercase;
   }
 
+  h5.a {
+    color: #f1c111;
+  }
+
+
   p {
     color: var(--p-color);
     font-size: var(--p-font-size);
     line-height: 1.5em;
+  }
+
+  #payment{
+    width: 15em;
+    border-radius: 0.7em;
   }
 
   b, 
@@ -563,7 +583,6 @@ https://templatemo.com/tm-538-digital-trend
   }
 
 
-
   /*---------------------------------------
      FOOTER              
   -----------------------------------------*/
@@ -715,3 +734,9 @@ https://templatemo.com/tm-538-digital-trend
   }
 
 
+
+
+  
+#contactus {
+  color: #f1c111;
+}
