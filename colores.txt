@@ -1,0 +1,4 @@
+:root {
+  --rosa: #F27A95;
+  --celeste: #6FD6A9;
+}
