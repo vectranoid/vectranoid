@@ -5,7 +5,10 @@ DIGITAL TREND
 https://templatemo.com/tm-538-digital-trend
 
 */
-
+#butone {
+  position: center;
+  margin-left: 30em;
+}
 
 #contactus {
   color: #f1c111;
